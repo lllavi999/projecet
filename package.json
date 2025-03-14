@@ -1,0 +1,20 @@
+{
+    "name": "project25",
+    "private": true,
+    "version": "0.0.0",
+    "type": "cjs",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "element-plus": "^2.7.7",
+        "vue": "^3.4.29",
+        "vue-router": "^4.4.0"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "^5.0.5",
+        "vite": "^6.2.1"
+    }
+}
